@@ -1,2 +1,2 @@
 # Multimodal_Humour_Recognition
-Multimodal Humour Recognition
+This project deals with using three modalities, Audio, Video and Text, for recognising a humorous scene.
