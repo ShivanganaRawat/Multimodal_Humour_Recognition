@@ -7,7 +7,7 @@ This repository is maintained by [Shivangana Rawat](https://www.linkedin.com/in/
 
 <img src="/images/Flowchart.png" alt="flowchart" width="700"/>
 
-The results we have got with our multimodal representation(with any strategic fusion of modality representation) is as follows:
+The results we have got with our multimodal representation(without any strategic fusion of modality representation) is as follows:
 
 <img src="/images/results.png" alt="results" width="500" >
 
@@ -19,4 +19,4 @@ Please note that we have unbalanced classes(65:35 ratio) in our dataset, and bot
 (a) LSTM </br>
 (b) Attention mechanism </br>
 
-2. Exploring modality fusion techniques such as MISA(Modality-Invariant and-Specific Representations for Multimodal Sentiment Analysis, AAAI 2020)
+2. Exploring modality fusion techniques such as MISA(Modality-Invariant and-Specific Representations for Multimodal Sentiment Analysis, AAAI 2020) for exploiting relationship between different modalities for better humor recognition.
