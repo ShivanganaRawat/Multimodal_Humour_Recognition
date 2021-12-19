@@ -7,7 +7,7 @@ This repository is maintained by [Shivangana Rawat](https://www.linkedin.com/in/
 
 <img src="/images/flowchart.png" alt="flowchart" width="700"/>
 
-The results we have got with our multimodal representation(without any strategic fusion of modality representation) is as follows:
+The results we have got with our multimodal representation(with and without strategic fusion of modality representation) is as follows:
 
 <img src="/images/result.png" alt="results" width="500" >
 
