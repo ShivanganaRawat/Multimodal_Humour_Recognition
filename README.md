@@ -1,4 +1,4 @@
-# Multimodal Humour Recognition
+# Multimodal Multiparty Humour Recognition
 This repository is maintained by [Shivangana Rawat](https://www.linkedin.com/in/shivangana-rawat-b12254124/) and [Pranoy Panda](https://sites.google.com/view/pranoy-panda/). This project is done as part of a course project at IITH. 
 
 **Aim**: This project deals with using three modalities, Audio, Video and Text, for recognising a humorous scene. Specifically, we are focusing on the [M2H2 dataset](https://arxiv.org/abs/2108.01260) which has multimodal data for conversations happening in a Hindi comedy television show named "Shrimaan Shrimati Phir Se". Each utterance in the conversation between the speakers, across 13 episodes, is labelled as "humorous" or "not-humorous".   
